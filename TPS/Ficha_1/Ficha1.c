@@ -129,11 +129,3 @@ int ex4(int raio){
     }
     return counter;
 }
-
-
-int main () {                
-
-printf("%d", ex4(4));
-return 0;
-
-}
