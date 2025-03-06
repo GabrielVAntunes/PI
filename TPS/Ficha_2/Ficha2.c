@@ -131,7 +131,3 @@ int ex6_b(int n){
 
     return resp;
 }
-
-int main(){
-    printf("%d",ex6_b(5));
-}
